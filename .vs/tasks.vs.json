@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Admin_Dashboard",
+      "appliesTo": "VioSM/Admin_Dashboard.resx",
+      "type": "launch"
+    }
+  ]
+}
