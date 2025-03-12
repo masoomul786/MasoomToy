@@ -73,9 +73,10 @@ Here's a simple README file for your **MasoomToy** project. This README provides
 
 Include some screenshots of the user interface to give users an idea of how the project looks.
 
-![Admin Dashboard](![image](https://github.com/user-attachments/assets/9513288f-685c-4f5e-a352-9a462bbff167)
-)
-![Seller Dashboard](![image](https://github.com/user-attachments/assets/0aad71c5-85ec-4482-ad0f-c0cfea3d2150)
+![Admin Dashboard] ![image](https://github.com/user-attachments/assets/ebf6c413-acb1-48fc-8241-1d2ccee3e3d7)
+
+![Seller Dashboard] ![image](https://github.com/user-attachments/assets/f8826aad-cb3e-4b39-a77f-1f51b7f7f299)
+
 )
 ![image](https://github.com/user-attachments/assets/9773d949-9850-43c9-8841-acb1ae888580)
 
